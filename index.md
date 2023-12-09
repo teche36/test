@@ -1,10 +1,3 @@
----
-layout: default
----
-
-
-# Welcome to the Doctor's Office
-
 ![Flower](nelkenstr2.png) <!-- Replace with your image path -->
 
 ## Contact Us
