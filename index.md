@@ -1,6 +1,10 @@
+<style>
+  .page-header {display:none;}
+  .title {color:green}
+</style>
 <div style="position: relative; text-align: center; color: white;">
   <img src="nelkenstr2.png" alt="Flower">
-  <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
+  <div class="title" style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%);">
     Nelkenstrasse
   </div>
 </div>
