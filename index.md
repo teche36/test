@@ -5,7 +5,7 @@ layout: default
 
 # Welcome to the Doctor's Office
 
-![Flower](nelkenstr2.jpg) <!-- Replace with your image path -->
+![Flower](nelkenstr2.png) <!-- Replace with your image path -->
 
 ## Contact Us
 
